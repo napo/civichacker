@@ -61,6 +61,7 @@ a:focus {
 }
 .navbar-custom .navbar-toggle {
   color: white;
+  color: #DAA520;
   background-color: rgba(255, 255, 255, 0.2);
   font-size: 12px;
 }
@@ -76,6 +77,7 @@ a:focus {
 }
 .navbar-custom a {
   color: white;
+  color: #DAA520;
 }
 .navbar-custom .nav li a {
   -webkit-transition: background 0.3s ease-in-out;
@@ -100,6 +102,7 @@ a:focus {
 }
 .navbar-custom .nav li.active a:hover {
   color: white;
+  color: #DAA520;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -159,9 +162,10 @@ a:focus {
   margin-top: 15px;
   padding: 7px 16px;
   border: 2px solid white;
+  border: 2px solid #DAA520;
   border-radius: 100% !important;
   font-size: 40px;
-  color: white;
+  color: #DAA520;
   background: transparent;
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
@@ -171,6 +175,7 @@ a:focus {
 .btn-circle:focus {
   outline: none;
   color: white;
+  color: #DAA520;
   background: rgba(255, 255, 255, 0.1);
 }
 .btn-circle i.animated {
@@ -224,6 +229,7 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: white;
+  color: #DAA520;
   background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
